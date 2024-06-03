@@ -7,6 +7,11 @@ this is a discord auto spreader
  .chance of working are low
 
 # how to use
- >Step 1: open cmd in the folder
- >Step 2: do something like this {name of exe.exe token true message-that-sends-when-message-recive}
- >step 3: keep it open or it wont try and spread
+  .im prob going to add an app on how to use it
+
+
+# release date
+ .im planning on working on it for for a bit longer (this is a side project)
+
+# how to contact me
+ . add me on discord: anthemia
